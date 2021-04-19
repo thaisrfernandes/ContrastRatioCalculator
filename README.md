@@ -16,7 +16,4 @@ A contrast ratio calculator I made for iPad
  
 > The app content is based on the Human Interface Guidelines (HIG) and Web Content Accessibility Guidelines (WAG)
  
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/sH0o9KB.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+ [Preview](https://i.imgur.com/sH0o9KB.mp4)
