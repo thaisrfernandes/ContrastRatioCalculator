@@ -1,7 +1,7 @@
 # Contrast Ratio Calculator
 A contrast ratio calculator I made for iPad
 
-<img src="https://i.imgur.com/RR5gYWZ.png" />
+<img src="https://i.imgur.com/a6Khvwd.png" />
 
 **Did you know that people with partial visual disabilities may struggle to read a text if its colors were chosen incorrectly?**
  
