@@ -14,6 +14,6 @@ A contrast ratio calculator I made for iPad
  
  Of course, the accessibility guidelines are way beyond only the colors contrast ratio, but that's a very important part of it and that's what we'll explore in this app.
  
-> The app content is based on the Human Interface Guidelines (HIG) and Web Content Accessibility Guidelines (WAG)
+> The app content is based on the Human Interface Guidelines (HIG) and Web Content Accessibility Guidelines (WCAG)
  
  [Preview](https://i.imgur.com/sH0o9KB.mp4)
